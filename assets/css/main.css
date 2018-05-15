@@ -1623,16 +1623,16 @@
 	}
 
 	body {
-		background-image: url("images/gaiasky.jpg");
+		/* background-image: url("images/gaiasky.jpg");
 		background-size:cover;
 		background-position: center center;
 		background-attachment: fixed;
-		color: #fff;
-		/* background-color: #935d8c;
+		color: #fff; */
+		background-color: #935d8c;
 		background-image: url("images/overlay.png"), -moz-linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
 		background-image: url("images/overlay.png"), -webkit-linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
 		background-image: url("images/overlay.png"), -ms-linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
-		background-image: url("images/overlay.png"), linear-gradient(45deg, #e37682 15%, #5f4d93 85%); */
+		background-image: url("images/overlay.png"), linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
 	}
 
 		body.is-loading *, body.is-loading *:before, body.is-loading *:after {
