@@ -1,0 +1,44 @@
+							<section id="cv" class="main special">
+								<header class="major">
+									<h2>Curriculum Vitae</h2>
+								</header>
+								<div class="table-wrapper">
+									<h2>Education</h2>
+									<p><b>2012-2016 &bull; University of Birmingham, UK &bull; M.Sci Physics and Astrophysics</b> <br>
+									Modules studied included Quantum and Classical Mechanics, Relativity, Cosmology, Atomic Physics and Stellar Physics, as well as C++ and MATLAB courses and laboatory exercises in groups of varying sizes. My masters research project aimed to detect signatures of stellar activity cycles in  <it>Kepler</it> frequency spectra, which led me to pursue a PhD in the field of asteroseismology.
+								</p>
+								<p>
+									<b>2006-2012 &bull; Gemeentlijk Gymnasium Hilversum, NL &bull; Gymansium (Dutch educational system)</b><br>
+									9/10 in Maths, Physics and Chemistry.
+									8.5/10 average across eleven subjects.
+								</p>
+								</div>
+
+								<h2>Work & Research Experience</h2>
+								<p>
+								Jan-Apr 2017, 2018, 2019 &bull; 2nd Year Laboratory Projects Demonstrator &bull; University of Birmingham<br>
+
+								Sep-Dec 2016, 2017, 2018 &bull; 3rd Year Observatory Laboratory Supervisor &bull; University of Birmingham<br>
+
+								Jul-Aug 2015 &bull; Summer Undergraduate Research Experience (SURE) &bull; University of Leicester<br>
+
+								Jun-Jul 2015 &bull; Ogden Trust Teach Physics Intern &bull; Bishop Challoner Catholic College, Birmingham, UK<br>
+								</p>
+
+								<h2>Languages<h2>
+								<p>
+								<b>Programming:</b><br>
+								<it>Advanced:</it> Python 2.x, Python 3.x, LaTeX <br>
+								<it>Basic:</it> MATLAB, C++, HTML <br>
+								<b>Conversational:<b><br>
+								<it>Fluent:</it> English, Dutch
+								<it>Basic:</it> German
+								</p>
+
+									<!-- <footer class="major">
+										<ul class="actions">
+											<li><a href="generic.html" class="button special">Get Started</a></li>
+											<li><a href="generic.html" class="button">Learn More</a></li>
+										</ul>
+									</footer> -->
+								</section>
