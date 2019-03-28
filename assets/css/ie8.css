@@ -32,6 +32,18 @@
 			border: 0;
 		}
 
+/* Icon */
+
+	.iconai.major {
+		-ms-behavior: url("assets/js/ie/PIE.htc");
+	}
+
+		.iconai.major:before {
+			font-size: 4em;
+			border: 0;
+		}
+
+
 /* Spotlight */
 
 	.spotlight .image {
