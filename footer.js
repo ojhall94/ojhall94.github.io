@@ -3,18 +3,18 @@ document.write('\
 		<h2>Contact</h2>\
 		<dl class="alt">\
 			<dt>Group</dt>\
-			<dd>Sun, Stars & Exoplanets &bull; formerly HiROS</dd>\
-			<dt>University</dt>\
-			<dd>University of Birmingham, UK</dd>\
+			<dd>ESA Research Fellows</dd>\
+			<dt>Institution</dt>\
+			<dd>European Space Research and Technology Centre (ESTEC)</dd>\
 			<dt>Address</dt>\
-			<dd>School of Physics & Astronomy &bull; Edgbaston &bull; Birmingham &bull; B15 2TT &bull; UK</dd>\
+			<dd>ESA ESTEC &bull; Noordwijk &bull; The Netherlands</dd>\
 			<dt>Email</dt>\
-			<dd><a href=mailto:ojhall94@gmail.com">ojhall94@gmail.com</a></dd>\
+			<dd><a href=mailto:oliver.hall@esa.int">oliver.hall@esa.int</a></dd>\
 		</dl>\
 		<ul class="icons">\
 			<a href="https://www.twitter.com/asteronomer" class="icon fa-twitter alt"><span class="label">Twitter</span></a>\
 			<a href="https://www.github.com/ojhall94" class="icon fa-github alt"><span class="label">GitHub</span></a>\
-			<a href="mailto:ojhall94@gmail.com" class="icon fa-envelope-o alt"><span class="label">Email</span></a>\
+			<a href="mailto:oliver.hall@esa.int" class="icon fa-envelope-o alt"><span class="label">Email</span></a>\
 			<a href="https://www.linkedin.com/ojhall94" class="icon fa-linkedin alt"><span class="label">LinkedIn</span></a>\
 			<a href=" https://orcid.org/0000-0002-0468-4775" class="iconai ai-orcid alt"><span class="label">Orcid ID</span></a>\
 		</ul>\
