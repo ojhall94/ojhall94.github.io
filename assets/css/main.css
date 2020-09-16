@@ -1639,7 +1639,7 @@
 		height: 100%;
 		background-color: #ffffff;
 		/* background-image: url("images/overlay.png"), linear-gradient(60deg, rgba(255, 165, 150, 0.5) 50%, rgba(0, 228, 255, 0.35)), url("../../images/bg3.jpg"); */
-	  background-image: url("images/overlay.png"), linear-gradient(60deg, rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.1)),url("../../images/bg4.jpg");
+	  background-image: url("images/overlay.png"), linear-gradient(60deg, rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.1)),url("../../images/back_leiden_2.jpg");
 		background-repeat: no-repeat,			no-repeat,			no-repeat;
 		background-size: 100px 100px, cover,				cover;
 		background-position: top left,		center center,		bottom center;
@@ -1662,8 +1662,8 @@
 /* Type */
 
 	body {
-		background-color: #935d8c;
-		color: rgba(255, 255, 255, 0.65);
+		background-color: #7c8494;
+		color: rgba(255, 255, 255, 1);
 	}
 
 	body, input, select, textarea {
@@ -2438,7 +2438,7 @@
 		}
 
 	.icon.alt {
-		border-color: rgba(255, 255, 255, 0.35);
+		border-color: rgba(255, 255, 255, 1);
 		color: #ffffff;
 	}
 
@@ -2568,7 +2568,7 @@
 		}
 
 	.iconai.alt {
-		border-color: rgba(255, 255, 255, 0.35);
+		border-color: rgba(255, 255, 255, 1);
 		color: #ffffff;
 	}
 
