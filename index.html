@@ -48,8 +48,7 @@
 						<ul>
 							<li><a href="#intro" class="active">About Me</a></li>
 							<li><a href="#research">Research</a></li>
-							<li><a href="#code">Open Code</a></li>
-							<li><a href="#blogs">Blogs</a></li>
+							<li><a href="#code">Code</a></li>
 							<li><a href="#cv">Curriculum Vitae</a></li>
 							<li><a href="#footer">Contact</a></li>
 						</ul>
@@ -66,16 +65,18 @@
 											<h2>About Me</h2>
 										</header>
 										<p>Hi! I'm Oli Hall, an ESA Research Fellow at ESTEC, The Netherlands.
-											My research focuses on a Bayesian use of asteroseismology in population studies,
+											My research focuses on a Bayesian ensemble analyses of stellar populations,
 											and how this can improve our understanding of both analysis techniques and underlying physics.
-											I am currently investigating the relationship between asteroseismic ages, rotation and mass,
-											and help develop tools for the community through my involvement in development of the TASOC pipeline for asteroseismic data
-											for the TESS mission, and the NASA Kepler GO office's Lightkurve Python package.</p>
+											My work is focused on stellar ages through asteroseismology and gyrochronology,
+										stellar rotation rates in the <i>TESS</i> Full Frame Images, and <i>Gaia</i> studies of red giant stars.</p>
 
-										<p>I was born in Hong Kong, but did most of my growing up in the Netherlands. I obtained my M.Sci. from the University of Birmingham in 2016,
-											under supervision of Prof. Bill Chaplin. I joined the Birmingham based Sun, Stars & Exoplanets (formerly HiROS) group in the same year as a PhD
-											student under supervison of Dr. Guy Davies. In 2020 I obtained my PhD and started as an ESA Reseach Fellow. While waiting for my code to run I scroll through <a href="https://www.twitter.com/asteronomer">Twitter</a>,
-											write for <a href="https://www.astrobites.com">Astrobites</a>, and try to engage the public in asteroseismology where I can.
+										<p>I was born in Hong Kong, but did most of my growing up in the Netherlands. I obtained my MSci from the University of Birmingham in 2016,
+											under supervision of Prof Bill Chaplin. I joined the Birmingham based Sun, Stars & Exoplanets (formerly HiROS) group in the same year as a PhD
+											student under supervison of Dr Guy Davies. In 2020 I obtained my PhD and started as an ESA Reseach Fellow where I (naturally) mainly work from my home office in the stunning city of Leiden (see background).
+										</p>
+										<p>
+											While waiting for my code to run I scroll through <a href="https://www.twitter.com/asteronomer">Twitter</a>,
+										  and try to engage the public in asteroseismology where I can. In the past I've written for <a href="https://www.astrobites.com">Astrobites</a>, which <a href="https://astrobites.org/author/ohall/">you can read here</a>.
 											In the time I'm not busy with research or my new baby you can find me walking our springer spaniel or watching streamers play kaizo mario romhacks.
 									</div>
 									<span class="image"><img src="images/avatar3.jpg" alt="" /></span>
@@ -90,19 +91,21 @@
 									<h2>Research</h2>
 								</header>
 
-									<p>I am currently studying the relationship between asteroseismic ages, masses and rotation in Main Sequence stars.
-										Previously, I looked into how systematics asteroseismic techniques and systematics in data from the <i>Gaia</i> mission affect
-										measurements of the absolute luminosity of Red Clump stars, using a complex hierarchical Bayesian model to probe the true distribution
-										of stars underlying their measurement uncertainties.
-
+									<p>I am usually throwing Hierarchical Bayesian Models at any stellar population problem I can find, and seeing if they stick.
+										Right now, I'm looking at gyrochronological ages of stars observed by <i>TESS</i> and <i>Gaia</i>, how the luminosity of
+										Red Clump giants changes with their metallicity, and how we can make robust stellar rotation measurements in <i>TESS</i> data.
+									</p>
+									<p>
 									A list of all papers I am currently (co-)author on can be found on
 									<a href="https://ui.adsabs.harvard.edu/#search/q=orcid%3A0000-0002-0468-4775&sort=date%20desc%2C%20bibcode%20desc&p_=0">NASA ADS</a>.
-									You can find a copy of any talks I have given on my <a href="https://speakerdeck.com/ojhall94">SpeakerDeck</a>.
+									You can find a copy of a selection of talks I have given on my <a href="https://speakerdeck.com/ojhall94">SpeakerDeck</a>.
 								</p>
-								<p>As part of the TASOC Working Group 0, I actively contribute to the effort to produce a data reduction pipeline for asteroseismic use of data from the TESS mission.
-									I am collaborating with Dr.s Rasmus Handberg and Mikkel Lund on background correction of Full Frame Images, and am working with Prof. Derek Buzasi, Lindsey Carboneau, and Filipe Pereira to detrend
-									the systematics in TESS light curves using an ensemble photometry approach. This work is open source, and can be found on the <a href="https://www.github.com/TASOC">TASOC GitHub</a>.
+								<p>
+									Image (c) University of Birmingham / Mark Garlick 2021
+								</p>
 								</div>
+								<span class="image"><img src="images/SunV6.jpeg" alt="" /></span>
+
 							</div>
 							</section>
 
@@ -115,7 +118,7 @@
 									<p>I love writing and sharing accessible code, and hacking other peoples work to learn from theirs!
 								  I have written and contributed to some packages that may help others in their work.
 									Below I provide links to a couple of repositories
-								that can be found on my <a href="https://www.github.com/ojhall94/">GitHub</a>, as well as `lightkurve`, an open source package I have contributed to.</p>
+								that can be found on my <a href="https://www.github.com/ojhall94/">GitHub</a>, and others I've formally contributed to.</p>
 									<div class="table-wrapper">
 									<table>
 										<thead>
@@ -130,6 +133,19 @@
 												<td>A beautiful package for Kepler and TESS time series analysis in Python.</td>
 											</tr>
 											<tr>
+												<td><a href="https://github.com/grd349/PBJam">PBJam</a></td>
+												<td>Automated asteroseismic peak-bagging made easy.</td>
+											</tr>
+											<tr>
+												<td><a href="https://github.com/ojhall94/michael">michael</a></td>
+												<td>Rotation measurements from eleanor TESS FFI light curves. Work in progress!</td>
+											</tr>
+											<tr>
+												<tr>
+													<td><a href="https://github.com/TASOC/">TASOC pipeline</a></td>
+													<td>I contribute to the TASOC photometry and correction modules for TESS FFIs</td>
+												</tr>
+												<tr>
 												<td><a href="https://github.com/ojhall94/stateoftheuniverse">State of the Universe</a></td>
 												<td>Packaged, current astronomical information for planetarium speakers and other educators.</td>
 											</tr>
