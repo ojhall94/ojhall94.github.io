@@ -15,7 +15,7 @@ document.write('\
 			<a href="https://www.twitter.com/asteronomer" class="icon fa-twitter alt"><span class="label">Twitter</span></a>\
 			<a href="https://www.github.com/ojhall94" class="icon fa-github alt"><span class="label">GitHub</span></a>\
 			<a href="mailto:oliver.hall@esa.int" class="icon fa-envelope-o alt"><span class="label">Email</span></a>\
-			<a href="https://www.linkedin.com/ojhall94" class="icon fa-linkedin alt"><span class="label">LinkedIn</span></a>\
+			<a href="https://www.linkedin.com/in/ojhall94/" class="icon fa-linkedin alt"><span class="label">LinkedIn</span></a>\
 			<a href=" https://orcid.org/0000-0002-0468-4775" class="iconai ai-orcid alt"><span class="label">Orcid ID</span></a>\
 		</ul>\
 \
